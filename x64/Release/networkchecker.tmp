@@ -1,0 +1,8 @@
+
+Pinging bing.com [13.107.21.200] with 32 bytes of data:
+Reply from 13.107.21.200: bytes=32 time=26ms TTL=113
+
+Ping statistics for 13.107.21.200:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 26ms, Maximum = 26ms, Average = 26ms
